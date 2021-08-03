@@ -1,9 +1,0 @@
-.testimonials {
-  &__item {
-    margin: 0 auto 48px;
-
-    @include onDesktop {
-      margin-bottom: 0;
-    }
-  }
-}
